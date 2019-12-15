@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     font-style: oblique;
     font-size: 50px;
-    flood-color: blue;
+    font: blue;
     background-color: chocolate;
 }
 
@@ -10,6 +10,6 @@ p {
     text-align: center;
     font-style: oblique;
     font-size: 10px;
-    flood-color: blue;
+    font: blue;
     background-color: chocolate;
 }
