@@ -5,3 +5,11 @@ h1 {
     flood-color: blue;
     background-color: chocolate;
 }
+
+p {
+    text-align: center;
+    font-style: oblique;
+    font-size: 10px;
+    flood-color: blue;
+    background-color: chocolate;
+}
